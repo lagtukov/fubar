@@ -4,7 +4,7 @@
   <xs:import namespace="http://asseco.pl/xml/rpm/ksiegaPodmiot/2011/04/08/" schemaLocation="https://raw.githubusercontent.com/lagtukov/fubar/master/ks.xsd"/>
   <xs:import namespace="http://crd.gov.pl/xml/schematy/adres/2009/11/09/" schemaLocation="https://raw.githubusercontent.com/lagtukov/fubar/master/adr.xsd"/>
   <xs:import namespace="http://crd.gov.pl/xml/schematy/osoba/2009/11/16/" schemaLocation="https://raw.githubusercontent.com/lagtukov/fubar/master/oso.xsd"/>
-  <xs:element name="InformacjeOWpisie">
+  <xs:element name="InformacjeOWpisie1">
     <xs:complexType>
       <xs:sequence>
         <xs:element minOccurs="0" ref="typ:RodzajRejestru"/>
